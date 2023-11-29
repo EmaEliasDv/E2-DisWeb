@@ -1,9 +1,9 @@
-.colores{
-Color1:#133340;
-color2:#143447;
-Color3:#592F59;
-Color4:#8C205C;
-Color5:#BF1564;
-Color6:#F20775;
-Color7:#FF0763;
+:root{
+--color1:#133340;
+--color2:#143447;
+--color3:#592F59;
+--color4:#8C205C;
+--color5:#BF1564;
+--color6:#F20775;
+--color7:#FF0763;
 }
