@@ -1,0 +1,43 @@
+
+*{
+    padding:0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav_{
+    padding: 5px;
+    height: auto;
+    background-color: #143447;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 4px 4px rgba(27, 27, 27, 0.397);
+    border-radius: 0 0 2px 2px;
+}
+
+.logo{
+    width: 80px;
+    margin-left: 30px;
+    border-radius: 50px;
+}
+
+.nav_form {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+    align-items: center;
+}
+
+ul.nav_li li{
+    display: inline-flex;;
+    justify-content: space-between;
+    color: #FF0763;
+    padding: 0 8px;
+}
+
+ul.nav_li li:hover{
+    color: white;
+}
+
+
